@@ -1,4 +1,4 @@
-# MSS_Wechat
+# MSS Wechat Articles Analysi
 
 * This project is to do the text analysis on MSS's Wechat Articles since its establishment on July.31, 2023.
 * First, it involves web scrapping all those 70 articles from then on and continue to do that once there is any update.
