@@ -24,3 +24,4 @@ with open(file_path, 'r', encoding='utf-8') as file:
 
 
 ct.term_freq(content, lang='chinese')
+ct.readability(content, lang='chinese')
